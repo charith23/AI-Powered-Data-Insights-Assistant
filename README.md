@@ -56,6 +56,3 @@ And the system:
 
 ---
 
-## 🧪 Example
-
-### User Input
