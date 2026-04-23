@@ -1,0 +1,24 @@
+# 🔥 node
+node_modules/
+npm-debug.log*
+
+# 🔥 env files (VERY IMPORTANT)
+.env
+
+# 🔥 build
+dist/
+build/
+
+# 🔥 logs
+logs
+*.log
+
+# 🔥 OS files
+.DS_Store
+Thumbs.db
+
+# 🔥 vscode
+.vscode/
+
+# 🔥 ollama cache (optional)
+.ollama/
